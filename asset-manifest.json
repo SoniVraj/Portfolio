@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.907beaca.css",
+    "main.js": "/static/js/main.891b81f6.js",
+    "static/js/770.b477def6.chunk.js": "/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/bugio.png": "/static/media/bugio.9ed088866c42c3bbc06c.png",
+    "static/media/edu.png": "/static/media/edu.02bc80aa13de8c73a3c8.png",
+    "static/media/drive.png": "/static/media/drive.c5fc23a1308a45845974.png",
+    "static/media/rental.png": "/static/media/rental.aff77e4e4ad2d2d2f363.png",
+    "static/media/farm.png": "/static/media/farm.1d84f000a372cb4ecbe2.png",
+    "static/media/cater.png": "/static/media/cater.77dbf81f420126d0bdd4.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.907beaca.css.map": "/static/css/main.907beaca.css.map",
+    "main.891b81f6.js.map": "/static/js/main.891b81f6.js.map",
+    "770.b477def6.chunk.js.map": "/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.907beaca.css",
+    "static/js/main.891b81f6.js"
+  ]
+}
